@@ -39,4 +39,18 @@ Create an issue here!
 [Rayo](http://phasereditor.boniatillo.com/blog/rayo) a lightweight text editor just made for Phaser coding.
 [Phaser Editor](http://phasereditor.boniatillo.com/blog/features) a complete IDE for Phaser games development.
 
+## Screenshots
+
+Phaser API auto-completions:
+
+![completions](https://github.com/boniatillo-com/PhaserSublimePackage/blob/master/demo/screenshots/Autocompletion.png "Phaser API auto-completion")
+
+Tern commands:
+
+![commands](https://github.com/boniatillo-com/PhaserSublimePackage/blob/master/demo/screenshots/TernCommands.png "Tern commands")
+
+Basic `.tern-project` file:
+
+![tern project](https://github.com/boniatillo-com/PhaserSublimePackage/blob/master/demo/screenshots/TernProject.png "Tern project file")
+
 

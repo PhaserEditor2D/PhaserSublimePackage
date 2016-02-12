@@ -17,8 +17,9 @@ For more details checkout [tern_for_sublime](https://github.com/ternjs/tern_for_
 
 ## Installation
 
+0. Install [nodejs](http://nodejs.org)
 1. Open Sublime Text
-2. Open the Packages folder: go to `Main menu > Preferences > Browse packages...`
+2. Open the Packages folder: go to `Main menu > Preferences > Browse Packages...`
 3. It opens the OS explorer in the package folder.
 4. In that folder copy the content of the [packages](../packages) directory of this repo.
 5. Restart Subilme Text

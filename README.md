@@ -12,6 +12,7 @@ This is a list of what you get:
 2. Jump to definitions
 3. Jump back
 4. Select all references (useful for renames)
+5. Describe (tested on Sublime Text 3)
 
 For more details checkout [tern_for_sublime](https://github.com/ternjs/tern_for_sublime)
 

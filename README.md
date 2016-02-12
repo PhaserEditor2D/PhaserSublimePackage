@@ -27,6 +27,8 @@ For more details checkout [tern_for_sublime](https://github.com/ternjs/tern_for_
 
 The demo project has nothing in special just that you should put in the root a [Tern project file](http://ternjs.net/doc/manual.html#configuration) (`.tern-project`) and add there the Phaser plugin.
 
+To enable automatic completions read [here](https://github.com/ternjs/tern_for_sublime#automatically-showing-completions).
+
 ## Thanks
 
 Special thanks to [Angelo Zerr](https://github.com/angelozerr) for his very kind support on everything related to ternjs.

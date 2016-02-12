@@ -1,10 +1,10 @@
 # Phaser Sublime Text Packages
 
-This is a set of Sublime Text packages to help developers to code HTML5 2D games based on https://github.com/photonstorm/phaser.
+This is a set of Sublime Text packages to help developers to code HTML5 2D games based on [PhaserJS](https://github.com/photonstorm/phaser).
 
 ## Smart coding
 
-We use a modified version of https://github.com/ternjs/tern_for_sublime to get JavaScript smart coding, in addition to a generated Phaser plugin using the [Phaser Editor](http://phasereditor.boniatillo.com) tooling.
+We use a modified version of [tern_for_sublime](https://github.com/ternjs/tern_for_sublime) to get JavaScript smart coding, in addition to a generated Phaser plugin using the [Phaser Editor](http://phasereditor.boniatillo.com) tooling.
 
 This is a list of what you get:
 
@@ -13,7 +13,7 @@ This is a list of what you get:
 3. Jump back
 4. Select all references (useful for renames)
 
-For more details checkout https://github.com/ternjs/tern_for_sublime
+For more details checkout [tern_for_sublime](https://github.com/ternjs/tern_for_sublime)
 
 ## Installation
 
@@ -28,7 +28,7 @@ The demo project has nothing in special just that you should put in the root a [
 
 ## Thanks
 
-Special thanks for @angelozerr for his very kind support on everything related to ternjs.
+Special thanks for [Angelo Zerr](https://github.com/angelozerr) for his very kind support on everything related to ternjs.
 
 ## Found a problem?
 

@@ -41,6 +41,7 @@ Create an issue here!
 ## Alternatives
 
 [Rayo](http://phasereditor.boniatillo.com/blog/rayo) a lightweight text editor just made for Phaser coding.
+
 [Phaser Editor](http://phasereditor.boniatillo.com/blog/features) a complete IDE for Phaser games development.
 
 ## Screenshots

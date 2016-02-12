@@ -357,7 +357,7 @@ def completion_icon(type):
   #if type == "number": return " (num)"
   #if type == "string": return " (str)"
   #if type == "bool": return " (bool)"
-
+  if type.startswith("fn("): return type[2:]
   if type is None or type == "?": return ": ?"
   return ": " + type;
 

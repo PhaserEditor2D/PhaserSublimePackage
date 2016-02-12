@@ -23,13 +23,13 @@ For more details checkout [tern_for_sublime](https://github.com/ternjs/tern_for_
 3. It opens the OS explorer in the package folder.
 4. In that folder copy the content of the [packages](../packages) directory of this repo.
 5. Restart Subilme Text
-6. Open the [phaser demo project](../demo/sublime-projects/phaser) and test it coding on the `game.js` file.
+6. Open the [phaser demo project](https://github.com/boniatillo-com/PhaserSublimePackage/tree/master/demo/sublime-projects/phaser) and test it coding on the `game.js` file.
 
 The demo project has nothing in special just that you should put in the root a [Tern project file](http://ternjs.net/doc/manual.html#configuration) (`.tern-project`) and add there the Phaser plugin.
 
 ## Thanks
 
-Special thanks for [Angelo Zerr](https://github.com/angelozerr) for his very kind support on everything related to ternjs.
+Special thanks to [Angelo Zerr](https://github.com/angelozerr) for his very kind support on everything related to ternjs.
 
 ## Found a problem?
 

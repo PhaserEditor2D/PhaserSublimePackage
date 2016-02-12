@@ -1,0 +1,30 @@
+[
+  {
+    "keys": ["alt+."], 
+    "command": "tern_jump_to_def",
+    "context": [
+      {"key": "selector", "operand": "source.js"}
+    ]
+  },
+  {
+    "keys": ["alt+,"], 
+    "command": "tern_jump_back",
+    "context": [
+      {"key": "selector", "operand": "source.js"}
+    ]
+  },
+  {
+    "keys": ["alt+space"], 
+    "command": "tern_select_variable",
+    "context": [
+      {"key": "selector", "operand": "source.js"}
+    ]
+  },
+  {
+    "keys": ["alt+o"], 
+    "command": "tern_describe",
+    "context": [
+      {"key": "selector", "operand": "source.js"}
+    ]
+  }
+]

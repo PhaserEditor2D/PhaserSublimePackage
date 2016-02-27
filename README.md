@@ -22,7 +22,7 @@ For more details checkout [tern_for_sublime](https://github.com/ternjs/tern_for_
 1. Open Sublime Text
 2. Open the Packages folder: go to `Main menu > Preferences > Browse Packages...`
 3. It opens the OS explorer in the package folder.
-4. In that folder copy the content of the [packages](../packages) directory of this repo.
+4. In that folder copy the content of the [packages](https://github.com/boniatillo-com/PhaserSublimePackage/tree/master/packages) directory of this repo.
 5. Restart Subilme Text
 6. Open the [phaser demo project](https://github.com/boniatillo-com/PhaserSublimePackage/tree/master/demo/sublime-projects/phaser) and test it coding on the `game.js` file.
 

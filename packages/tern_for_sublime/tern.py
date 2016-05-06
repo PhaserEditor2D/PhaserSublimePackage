@@ -351,14 +351,18 @@ def report_error(message, project):
 
 def completion_icon(type):
   # Modified by Arian
-  #if type is None or type == "?": return " (?)"
+  if type is None or type == "?": return " (?)"
   #if type.startswith("fn("): return " (fn)"
   #if type.startswith("["): return " ([])"
-  #if type == "number": return " (num)"
-  #if type == "string": return " (str)"
-  #if type == "bool": return " (bool)"
-  if type.startswith("fn("): return type[2:]
-  if type is None or type == "?": return ": ?"
+  if type == "number": return " num"
+  if type == "string": return " str"
+  if type == "bool": return " bool"
+  if type.startswith("fn("):
+    s = type[2:]
+    s = s.replace("String", "str")
+    s = s.replace("Boolean", "bool")
+    s = s.replace("Number", "num")
+    return s
   return ": " + type;
 
 def fn_completion_icon(arguments):

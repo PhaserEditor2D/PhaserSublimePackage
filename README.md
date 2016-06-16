@@ -14,7 +14,9 @@ This is a list of what you get:
 4. Select all references (useful for renames)
 5. Describe (tested on Sublime Text 3)
 
-For more details checkout [tern_for_sublime](https://github.com/ternjs/tern_for_sublime)
+For more details checkout [tern_for_sublime](https://github.com/ternjs/tern_for_sublime).
+
+WARNING: for a good code completion you should follow certain coding style, to help the type inference engine, read more about it in [this issue](https://github.com/boniatillo-com/PhaserSublimePackage/issues/1).
 
 ## Installation
 

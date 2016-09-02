@@ -27,6 +27,7 @@ WARNING: for a good code completion you should follow certain coding style, to h
 4. In that folder copy the content of the [packages](https://github.com/boniatillo-com/PhaserSublimePackage/tree/master/packages) directory of this repo.
 5. Restart Subilme Text
 6. Open the [phaser demo project](https://github.com/boniatillo-com/PhaserSublimePackage/tree/master/demo/sublime-projects/phaser) and test it coding on the `game.js` file.
+7. Warning: there is an issue if you add `phaser.js` to your project. Please, rename it to `phaser.min.js` until we fix it.
 
 The demo project has nothing in special just that you should put in the root a [Tern project file](http://ternjs.net/doc/manual.html#configuration) (`.tern-project`) and add there the Phaser plugin.
 
